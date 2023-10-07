@@ -7,6 +7,7 @@ boundary condition of the domain. The boundary conditions of the domain can be m
 
 
 Computational domain
+
 ![image](https://github.com/Panchal1810/Two-dimensional-steady-state-heat-convection/assets/122630851/4e5f0bcd-3827-47fd-a64d-4a2f176cf82a)
 
 The temperature distribution over the domain with conductive flux in (a) and convective flux in (b)
